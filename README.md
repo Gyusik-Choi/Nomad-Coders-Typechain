@@ -1,1 +1,1 @@
-# Nomad-Coders-Typechain
+# Nomad-Coders-Typescript-Typechain
